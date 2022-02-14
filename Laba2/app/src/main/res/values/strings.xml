@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Laba 2</string>
+    <string name="page_title">Вгадайте число!</string>
+    <string name="page_sub_title">між 1 та 100</string>
+    <string name="more">Більше</string>
+    <string name="less">Менше</string>
+    <string name="right">Ви вгадали!</string>
+    <string name="hint">Введіть число...</string>
+    <string name="error">Неправильний ввід.</string>
+    <string name="btn">Перевірити</string>
+    <string name="generate">Грати ще</string>
+</resources>
